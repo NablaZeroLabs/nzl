@@ -1,0 +1,9 @@
+# Emacs temporary files
+*~
+
+# Python byte-compiled files and directoriesa
+*.pyc
+*.egg-info
+
+# Build directories
+build/
