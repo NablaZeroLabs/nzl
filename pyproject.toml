@@ -1,0 +1,18 @@
+[project]
+name = "nzl"
+version = "0.0.0"
+authors = [
+  { name="Juan Arrieta", email="juan.arrieta@nablazerolabs.com" },
+]
+description = "Nabla Zero Labs Open Source Software",
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/NablaZeroLabs/nzl"
+Issues = "https://github.com/NablaZeroLabs/nzl/issues"
